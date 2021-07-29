@@ -1,8 +1,38 @@
 ---
 permalink: /about/
-title: "About"
+title: About Me
+last_modified_at: 2014-07-31
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+This page will always be in a state of flux since I find writing about
+myself rather difficult, the whole idea of having an about page sounds
+pretentious.
+Eventually I hope to have links to stuff that make me look much cooler
+than I really am. Come to think of it, isn't that what a Facebook page is for?
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Until then, [you'll get nothing and like it](https://www.youtube.com/watch?v=qLdBrx-ijwQ).
+
+## Who are you?
+
+I am the world's foremost expert on [Thomas & Friends](http://ttte.wikia.com/wiki/Thomas_%26_Friends). Seriously. Well, after my son that is.
+
+When not watching talking steam engines,
+I'm a computer scientist who develops data driven applications.
+In true generalist fashion, I have shipped products in C, Java,
+C#, Python, Clojure, and Ruby over the last 10 years.
+
+Recently my interest lies in developing distributed data systems while dabbling
+in functional programming languages and hypermedia APIs.
+
+You can find my (relatively) up to date professional profile on
+[LinkedIn](http:/linkedin.com/in/danielcanas).
+
+## Free Time Stuff
+* huh, what's this free time you speak of?
+* Reading (Another section I should eventually add to this site)
+* Soccer
+
+## Contact Me
+
+I'm on [twitter](http://twitter.com/dacamo76), mostly just an observer,
+but it's the easiest way to get in touch.
